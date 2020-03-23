@@ -1,1 +1,2 @@
-# ExamenFinalBaseDeDatos51225
+# ExamenFinalBaseDeDatos
+Nicole Patricia Góngora Rodríguez 51225
